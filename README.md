@@ -1,2 +1,2 @@
 # Assignment-1
-Pattern problems
+Pattern problems using python
